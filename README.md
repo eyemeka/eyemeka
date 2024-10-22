@@ -1,17 +1,14 @@
 Hello, I'm EYEMEKA
 <a href="https://www.linkedin.com/in/eyemekauwadia/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Dynamic and results-driven cybersecurity analyst with a strong passion for identifying and resolving complex security challenges. Adept at designing and implementing effective solutions to protect systems and data, while working closely with teams to ensure security best practices are upheld. Known for an analytical mindset and a hands-on approach to safeguarding organizational assets. Committed to helping organizations stay ahead of evolving cyber threats by leveraging technical expertise and an innate drive to secure digital environments.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in digital marketing has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in digital marketing has led me to develop a passion for cybersecurity, I am  passionate about safeguarding digital environments. Eager to leverage a strong foundation in data analysis, problem-solving, and strategic thinking to excel in cyber and cloud security roles. Committed to continuously expanding technical expertise and demonstrating skills in securing on-premise and cloud infrastructures, with the goal of protecting organizations from evolving threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
