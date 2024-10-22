@@ -42,7 +42,7 @@ My journey in digital marketing has led me to develop a passion for cybersecurit
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4D4D4D?&style=for-the-badge&logo=Google&logoColor=white" />
