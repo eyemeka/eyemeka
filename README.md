@@ -4,7 +4,6 @@ Hello, I'm EYEMEKA
 Dynamic and results-driven cybersecurity analyst with a strong passion for identifying and resolving complex security challenges. Adept at designing and implementing effective solutions to protect systems and data, while working closely with teams to ensure security best practices are upheld. Known for an analytical mindset and a hands-on approach to safeguarding organizational assets. Committed to helping organizations stay ahead of evolving cyber threats by leveraging technical expertise and an innate drive to secure digital environments.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in digital marketing has led me to develop a passion for cybersecurity, I am  passionate about safeguarding digital environments. Eager to leverage a strong foundation in data analysis, problem-solving, and strategic thinking to excel in cyber and cloud security roles. Committed to continuously expanding technical expertise and demonstrating skills in securing on-premise and cloud infrastructures, with the goal of protecting organizations from evolving threats.
 
@@ -46,7 +45,7 @@ My journey in digital marketing has led me to develop a passion for cybersecurit
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google-Cybersecurity-Certificate%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
