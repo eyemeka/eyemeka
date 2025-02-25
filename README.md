@@ -9,14 +9,14 @@ My journey in digital marketing has led me to develop a passion for cybersecurit
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                                        | Associated Project         |
+|--------------------------------------------------------------|----------------------------|
+| Vulnerability Scanning Using Nessus To Scan Metasploitable 2 | <a href="https://github.com/eyemeka/Vulnerability-Scanning-Using-Nessus-To-Scan-Metasploitable-2">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection              | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR                        | SOC Automation Lab|
+| Incident Response Planning and Execution                     | SOC Automation Lab|
+| SIEM Implementation and Log Analysis                         | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation               | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -51,5 +51,10 @@ My journey in digital marketing has led me to develop a passion for cybersecurit
 </div>
 
 ## Projects
-- Detection Lab
+- Vulnerability Scanning Using Nessus To Scan Metasploitable 2
+- Risk Management Policy For ABC Bank
+- GCP – Respond and Recover From a Data Breach
+- AWS Security Monitoring and Real-Time Notifications
+- Create A Role In Google Cloud IAM
+- Cloud Security with AWS IAM User Permissions
 - SOC Automation Project
