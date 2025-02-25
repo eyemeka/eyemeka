@@ -28,6 +28,12 @@ My journey in digital marketing has led me to develop a passion for cybersecurit
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-0096A2?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-0099CC?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPdump-005F99?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+
+
     
 </div>
 
