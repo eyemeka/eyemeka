@@ -1,4 +1,4 @@
-Hello, I'm EYEMEKA
+# Hello, I'm EYEMEKA
 <a href="https://www.linkedin.com/in/eyemekauwadia/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Dynamic and results-driven cybersecurity analyst with a strong passion for identifying and resolving complex security challenges. Adept at designing and implementing effective solutions to protect systems and data, while working closely with teams to ensure security best practices are upheld. Known for an analytical mindset and a hands-on approach to safeguarding organizational assets. Committed to helping organizations stay ahead of evolving cyber threats by leveraging technical expertise and an innate drive to secure digital environments.
