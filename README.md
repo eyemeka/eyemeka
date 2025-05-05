@@ -13,12 +13,14 @@ My journey in digital marketing has led me to develop a passion for cybersecurit
 |--------------------------------------------------------------|----------------------------|
 | Vulnerability Scanning Using Nessus To Scan Metasploitable 2 | <a href="https://github.com/eyemeka/Vulnerability-Scanning-Using-Nessus-To-Scan-Metasploitable-2">Detection Lab</a>|
 | AWS Security Monitoring and Real-Time Notifications          | <a href="https://github.com/eyemeka/AWS-Security-Monitoring-and-Real-Time-Notifications">Click Here</a>|
-| GCP - Respond and Recover From a Data Breach                 | <a href="https://github.com/eyemeka/GCP-Respond-and-Recover-From-a-Data-Breach">Click Here</a>|
+| Installation & Configuration of Suricata (IDS/IPS)           | <a href="https://github.com/eyemeka/Installation-Configuration-of-Suricata-IDS-IPS-">Click Here</a>|
 | Risk Management Policy For ABC Bank                          | <a href="https://github.com/eyemeka/Risk-Management-Policy-For-ABC-Bank">Click Here</a>|
 | Create A Role In Google Cloud IAM                            | <a href="https://github.com/eyemeka/Create-A-Role-In-Google-Cloud-IAM">Click Here</a>|
 | Cloud Security with AWS IAM User Permissions                 | <a href="https://github.com/eyemeka/Cloud-Security-with-AWS-IAM-User-Permissions">Click Here</a>|
-| SIEM Implementation and Log Analysis                         | Automation Lab|
+| Email Analysis: BTLO Challenge; The Planet’s Prestige        | <a href="https://github.com/eyemeka/Email-Analysis-BTLO-Challenge-The-Planet-s-Prestige">Click Here</a>|
+| Threat Detection with AWS GuardDuty                          | <a href="https://github.com/eyemeka/Threat-Detection-with-AWS-GuardDuty">Click Here</a>|
 | Network Traffic Monitoring and Attack Detection              | Automation Lab|
+| SIEM Implementation and Log Analysis                         | Automation Lab|
 
 ## Tools
 
@@ -50,14 +52,18 @@ My journey in digital marketing has led me to develop a passion for cybersecurit
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4D4D4D?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Junior%20Analyst-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISO%2FIEC%2027001%20Lead%20Auditor-000080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00693e?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
 ## Projects
 - Vulnerability Scanning Using Nessus To Scan Metasploitable 2
 - Risk Management Policy For ABC Bank
-- GCP – Respond and Recover From a Data Breach
+- Threat Detection with AWS GuardDuty
 - AWS Security Monitoring and Real-Time Notifications
-- Create A Role In Google Cloud IAM
+- Installation & Configuration of Suricata (IDS/IPS)
 - Cloud Security with AWS IAM User Permissions
+- Highly Available AWS VPC Architecture with Public EC2 and Private RDS
+- AWS VPC Peering and Testing Connectivity
 - SOC Automation Project
