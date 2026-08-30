@@ -1,11 +1,19 @@
 # Hello, I'm EYEMEKA
 <a href="https://www.linkedin.com/in/eyemekauwadia/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Dynamic and results-driven Cloud & Cybersecurity analyst with a strong passion for identifying and resolving complex security challenges. Adept at designing and implementing effective solutions to protect systems and data, while working closely with teams to ensure security best practices are upheld. Known for an analytical mindset and a hands-on approach to safeguarding organizational assets. Committed to helping organizations stay ahead of evolving cyber threats by leveraging technical expertise and an innate drive to secure digital environments.
+I’m a cybersecurity professional focused on helping organizations identify, assess, and reduce information security risk.
+
+My interests and practical experience span GRC, IT risk, Information security, Security assurance, and Vulnerability Management, with a growing focus on Cloud Security.
+
+I have hands-on experience conducting vulnerability assessments, analyzing security weaknesses, evaluating risks, and developing remediation recommendations. I also apply security and risk frameworks such as ISO 27001 and NIST to understand how organizations can establish effective security controls and manage information security risk.
+
+I hold CompTIA Security+, Google Cybersecurity Professional Certificate, and ISO 27001 Lead Auditor certifications, and I continue to build practical capability through hands-on security labs and projects.
+
+I’m particularly interested in opportunities in GRC, IT Risk, Information Security, Security Assurance, Cyber Risk, Vulnerability Management, and Cloud Security especially roles where I can combine technical security knowledge with risk, controls, and compliance to help organizations strengthen their security posture.
 
 ## Objective
 
-My journey in digital marketing has led me to develop a passion for cybersecurity, I am  passionate about safeguarding digital environments. Eager to leverage a strong foundation in data analysis, problem-solving, and strategic thinking to excel in cyber and cloud security roles. Committed to continuously expanding technical expertise and demonstrating skills in securing on-premise and cloud infrastructures, with the goal of protecting organizations from evolving threats.
+My journey in IT has led me to develop a passion for cybersecurity, I am passionate about safeguarding digital environments. Eager to leverage a strong foundation in problem-solving, and strategic thinking to excel in cyber and cloud security roles. Committed to continuously expanding technical expertise and demonstrating skills in securing on-premise and cloud infrastructures, with the goal of protecting organizations from evolving threats.
 
 ## Skills
 
