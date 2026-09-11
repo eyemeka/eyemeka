@@ -19,6 +19,7 @@ My journey in IT has led me to develop a passion for cybersecurity, I am passion
 
 |         Skill                                                | Associated Project         |
 |--------------------------------------------------------------|----------------------------|
+| Internal Network Vulnerability Assessment & Risk Management   | <a href="https://github.com/eyemeka/Internal-Network-Security-Risk-Assessment-Lab">Detection Lab</a>|
 | Vulnerability Scanning Using Nessus To Scan Metasploitable 2 | <a href="https://github.com/eyemeka/Vulnerability-Scanning-Using-Nessus-To-Scan-Metasploitable-2">Detection Lab</a>|
 | AWS Security Monitoring and Real-Time Notifications          | <a href="https://github.com/eyemeka/AWS-Security-Monitoring-and-Real-Time-Notifications">Click Here</a>|
 | Installation & Configuration of Suricata (IDS/IPS)           | <a href="https://github.com/eyemeka/Installation-Configuration-of-Suricata-IDS-IPS-">Click Here</a>|
@@ -66,6 +67,7 @@ My journey in IT has led me to develop a passion for cybersecurity, I am passion
 </div>
 
 ## Projects
+- Internal Network Vulnerability Assessment & Risk Management
 - Vulnerability Scanning Using Nessus To Scan Metasploitable 2
 - Risk Management Policy For ABC Bank
 - Threat Detection with AWS GuardDuty
